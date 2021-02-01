@@ -1,4 +1,4 @@
-# app_contatos_cajazeiras
+# Aplicativo Contatos de Cajazeiras
 
 A new Flutter project.
 
